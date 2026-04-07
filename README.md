@@ -1,6 +1,6 @@
 ﻿# smismun-draft-site
 
-Instructiosn to Install and Run:
+Instructions to Install and Run:
 
 1. Click Code and Download the zip file.
 2. Unzip the zip folder.
